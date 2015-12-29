@@ -1,0 +1,21 @@
+{
+  "name": "light/yii2-offline",
+  "description": "offline action",
+  "type": "library",
+  "keywords": ["yii2","extension","offline"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "lichunqiang",
+      "email": "light-li@homail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "light\\Offline\\": "src"
+    }
+  }
+}
