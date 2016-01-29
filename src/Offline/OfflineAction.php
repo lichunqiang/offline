@@ -2,6 +2,8 @@
 
 namespace light\Offline;
 
+use yii\base\Action;
+
 /**
  * catchAll action to display to user.
  *
@@ -28,7 +30,7 @@ namespace light\Offline;
  * ~~~
  *
  */
-class OfflineAction extends \yii\base\Action
+class OfflineAction extends Action
 {
     /**
      * @var string
