@@ -2,6 +2,13 @@ yii2-offline
 ============
 offline action
 
+[![Build Status](https://img.shields.io/travis/lichunqiang/offline.svg?style=flat-square)](http://travis-ci.org/lichunqiang/offline)
+[![version](https://img.shields.io/packagist/v/light/yii2-offline.svg?style=flat-square)](https://packagist.org/packages/light/yii2-offline)
+[![Download](https://img.shields.io/packagist/dt/light/yii2-offline.svg?style=flat-square)](https://packagist.org/packages/light/yii2-offline)
+[![Contact](https://img.shields.io/badge/weibo-@chunqiang-blue.svg?style=flat-square)](http://weibo.com/chunqiang)
+
+
+
 Installation
 ------------
 
@@ -51,3 +58,8 @@ Your `config` file:
 ...
 
 ```
+
+License
+-------
+
+![MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
